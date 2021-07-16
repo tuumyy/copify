@@ -1,0 +1,2 @@
+# copify
+Copify - Spotify API
